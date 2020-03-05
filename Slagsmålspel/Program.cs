@@ -12,6 +12,8 @@ namespace Slagsmålspel
         static void Main(string[] args)
         {
 
+            //en ny 
+
             Random generator = new Random();
 
             
